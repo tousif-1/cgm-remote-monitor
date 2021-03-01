@@ -4,12 +4,12 @@ body {
   padding: 0;
   overflow: hidden;
   font-family: 'Open Sans', Arial, Helvetica, sans-serif;
-  color: grey;
+  color: red;
   background-color: black;
 }
 
 main {
-  height: 100vh;
+  height: 200vh;
 }
 
 #inner {
